@@ -1,0 +1,9 @@
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.csprojAssemblyReference.cache
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.AssemblyInfoInputs.cache
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
+/home/ignavis/Documents/MicroTests/src/Common/bin/Debug/netstandard2.0/Common.deps.json
+/home/ignavis/Documents/MicroTests/src/Common/bin/Debug/netstandard2.0/Common.dll
+/home/ignavis/Documents/MicroTests/src/Common/bin/Debug/netstandard2.0/Common.pdb
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.dll
+/home/ignavis/Documents/MicroTests/src/Common/obj/Debug/netstandard2.0/Common.pdb
